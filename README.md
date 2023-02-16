@@ -10,6 +10,8 @@ Recentemente, eu adquiri uma sólida formação na Driven Education, onde comple
 
 📫 Como entrar em contato comigo: allan.coelho999@gmail.com
 
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-vc/)
+
 
 ## Principais stacks
 
@@ -26,7 +28,6 @@ Recentemente, eu adquiri uma sólida formação na Driven Education, onde comple
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
 
 ![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Allan-Coelho&theme=github_dark)
 
