@@ -8,6 +8,8 @@ Recentemente, eu adquiri uma sólida formação na Driven Education, onde comple
 
 👯 Procuro colaborar em projetos open-source e/ou projetos que possam impactar positivamente a sociedade
 
+🎯 O que me move: Desde jovem, sempre admirei a automação e como ela pode impactar as pessoas, permitindo que elas tenham mais tempo para fazer o que realmente importa. Trabalhando na área de Tecnologia da Informação, descobri que posso automatizar diversas tarefas sem depender de uma máquina específica. Essa possibilidade me fascina, pois me permite ser protagonista do meu aprendizado e trabalho, e buscar constantemente maneiras mais eficientes e inovadoras de resolver problemas complexos. 
+
 📫 Como entrar em contato comigo: allan.coelho999@gmail.com
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-vc/)
